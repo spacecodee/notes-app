@@ -1,5 +1,5 @@
 # Aplicación crud con node js y mongodb
-- Para usarla: comando -> npm i (Instalará las dependencias utilziadas).
+- Para usarla: comando -> npm i (Instalará las dependencias utilzadas).
 - Disfruta
 ## Followme
 - IG: https://www.instagram.com/spacecodee/
